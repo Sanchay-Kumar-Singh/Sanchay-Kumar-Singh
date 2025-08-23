@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchay-kumar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="sanchay-kumar-singh" /> </p>
 
-- 🔭 I’m currently working on **Gym website**
+- 🔭 I’m currently working on **Ai Trip Planner Website**
 
 - 🌱 I’m currently learning **React.js**
 
