@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <!-- Right-aligned coding GIF -->
-<img align="right" alt="Software Developer GIF" width="400" height="400" src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c29mdHdhcmUlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3Df">
+<img align="right" alt="Software Developer GIF" width="300" height="300" src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c29mdHdhcmUlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3Df">
 
 
 <p align="left">
