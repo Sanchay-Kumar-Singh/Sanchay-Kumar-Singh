@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <!-- Right-aligned coding GIF -->
-<img align="right" alt="Coding Dev GIF" width="400" src="https://media1.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+<img align="right" alt="Software Developer GIF" width="400" src="https://media.giphy.com/media/d314tXXrfzPGqZlnMu/giphy.gif">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sanchay-kumar-singh&label=Profile%20views&color=0e75b6&style=flat"
