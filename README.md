@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <!-- Right-aligned image -->
-<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/616/616408.png">
+<img align="right" alt="Developer" width="400" src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sanchay-kumar-singh&label=Profile%20views&color=0e75b6&style=flat"
